@@ -1,0 +1,1 @@
+Az elsõ footer Codeberry iránymutatásai szerint.
