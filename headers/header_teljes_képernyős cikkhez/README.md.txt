@@ -1,0 +1,1 @@
+header teljesképernyõs cikkhez, olyan cucc aminek a tetején teljesen egy képlátszik és alatt a szöveg.
